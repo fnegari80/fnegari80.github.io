@@ -12,7 +12,7 @@ title                    : "Fatemeh Negari"
 title_separator          : "-"
 name                     : &name "Fatemeh Negari"
 description              : &description "personal description"
-url                      : https://kooroshsadri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fnegari80.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maralandamir/fnegari80.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name              : "Koorosh Sadri"
+  name              : "Fatemeh Negari"
   avatar            : "profile.jpg"
-  bio               : ">> Theoretical Physics @ SUT\n>> Jan 22, 1998, Tehran, Iran\n>> Quantum Information, General Relativity, Nonlinear Dynamics and Chaos, Sphere Packing, Stochastic Analysis, High Dimensional Statistics"
+  bio               : ">> Ocean Engineering @ Amirkabir university of technology(Tehran Polytechnique)\n>> from Tehran, Iran\n>> i'm a great artist"
   location          : 
   employer          : 
   pubmed            : 
   googlescholar     : 
-  email             : "mr.k.sadri@gmail.com"
+  email             : "maralandamir8076@gmail.com"
   researchgate      :  
   uri               :
   bitbucket         :
@@ -97,7 +97,7 @@ author:
   flickr            :
   facebook          :
   foursquare        :
-  github            : "kooroshsadri"
+  github            : "maralandamir"
   google_plus       :
   keybase           :
   instagram         :
