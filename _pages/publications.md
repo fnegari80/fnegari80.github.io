@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 here are some of my artworks
-![1630269032851](https://user-images.githubusercontent.com/89746186/131264644-a23afdcb-6e2b-43d1-824c-98cd6a7841c3.jpg)
+![art1](https://user-images.githubusercontent.com/89746186/131265449-0dee6809-46e2-4bc0-8f7e-37222cc679a6.jpg)
 
-![1630269032851](https://user-images.githubusercontent.com/89746186/131264644-a23afdcb-6e2b-43d1-824c-98cd6a7841c3.jpg)
+![art2](https://user-images.githubusercontent.com/89746186/131265456-6d42c22d-8a36-4da1-99fe-cfde9757c4ac.jpg)
+
+![art3](https://user-images.githubusercontent.com/89746186/131265459-b44ccdf4-8d7a-4ba6-b2e1-a8a146e80707.jpg)
